@@ -1,4 +1,7 @@
 # ReactJS
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f8e7f629-912e-4917-92e0-2536e2434014" alt="NodeJS + ExpressJS Logo" width="600">
+</div>
 
 ## Bước 1
 Tạo project ReactJS bằng **Vite**, phiên bản này tối ưu hơn ReactJS truyển thống:
