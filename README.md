@@ -62,20 +62,16 @@ Tại `App.jsx`, đây là page chính chứa các **routes** để nối các p
 Ta cần hiểu cơ cấu project như sau:
 ```
 Project
-  |
-  |__ backend
-  |__ frontend
-        |__ public
-	|__ src
-        |__ public
-	            |__ css
-	            |__ img
-	            |__ js
-	      |__ components
-	      |__ pages
-	      |__ App.jsx
-	      |__ main.jsx
-	|__ (Các file liên quan khác)
+  |__ public
+  	|__ css
+	|__ img
+	|__ js
+  |__ src
+	|__ components
+	|__ pages
+	|__ App.jsx
+	|__ main.jsx
+  |__ (Các file liên quan khác)
 ```
 
 Tạo 2 thư mục `pages` và `components` lần lượt chứa page ReactJS và các thành phần khác như `head`,...; sau đó page bằng cách gõ `rafce` rồi nhét vào thư mục `pages`.
